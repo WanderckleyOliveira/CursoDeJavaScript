@@ -1,3 +1,4 @@
+/*
 let nome = 'Wanderckley'; // string literal = tudo que se colaca entre aspas é um texto
 let idade = 37; // number literal = numero inteiro
 let estaAprovado = true; // boolean = um decisão
@@ -7,8 +8,14 @@ let pessoa = {
     nome: 'Wanderckley',
     idade: 25,
     estaAprovado: true,
-    sobreNome: 'Olievria'
-
-};
-
+    sobreNome: 'Oliveira'
+}
 console.log(pessoa);
+
+*/
+
+let familia = ['wanderckley', 'yuri', 'davi', 'kath'];
+
+console.log(familia.length);
+
+console.log(familia[2]);
