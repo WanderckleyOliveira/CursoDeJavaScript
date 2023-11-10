@@ -1,2 +1,0 @@
-# CursoDeJavaScript
-JavaScript na pratica 
