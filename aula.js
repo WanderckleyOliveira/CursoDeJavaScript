@@ -17,6 +17,7 @@ console.log(altura);*/
 
 // Exercicio imprima na tela tres variaveis diferente
 
+/*
 let nome = 'Wanderckley';
 let peso = 104;
 let altura = 1.79;
@@ -30,3 +31,4 @@ console.log(altura);
 console.log(cor);
 
 
+*/
